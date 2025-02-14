@@ -14,3 +14,6 @@ this is developement doc.djnvs
 
 ## testing 
 testing is important for buid.
+
+### comment
+sample comment added in simple.html
