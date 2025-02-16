@@ -17,3 +17,6 @@ testing is important for buid.
 
 ### comment
 sample comment added in simple.html
+
+## how to contribute
+please fork this repo and then isssue pull req for review
