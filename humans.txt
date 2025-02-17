@@ -8,6 +8,7 @@
 # THANKS
 
     thanks to family
+	stashing for untracked files
 
 # TECHNOLOGY COLOPHON
 
