@@ -20,3 +20,6 @@ sample comment added in simple.html
 
 ## how to contribute
 please fork this repo and then isssue pull req for review
+
+## stash
+giving stash example
