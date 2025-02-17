@@ -7,7 +7,7 @@
 
 # THANKS
 
-    thanks to family
+    thanks to family!
 	stashing for untracked files
 
 # TECHNOLOGY COLOPHON
